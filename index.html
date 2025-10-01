@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Quiz Star Wars - Postacie</title>
+  <title>Quiz Star Wars </title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -51,7 +51,7 @@
         const peopleData = await peopleRes.json();
         const people = peopleData.results;
 
-        // Tworzymy pytania z danych
+      
         const luke = people.find(p => p.name === "Luke Skywalker");
         const leia = people.find(p => p.name === "Leia Organa");
         const han = people.find(p => p.name === "Han Solo");
@@ -127,3 +127,4 @@
   </script>
 </body>
 </html>
+
