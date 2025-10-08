@@ -24,3 +24,5 @@ Twoje kliknięcie od razu sprawdzi, czy odpowiedź była poprawna i przełączy 
 Po udzieleniu odpowiedzi na wszystkie pytania zobaczysz swój wynik końcowy.
 
 Możesz uruchomić quiz ponownie, aby spróbować uzyskać lepszy wynik
+
+ https://sliski23.github.io/starwars2/
